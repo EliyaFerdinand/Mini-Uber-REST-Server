@@ -1,0 +1,9 @@
+2018-06-21 00:04:48.770  INFO [dispatch-service,,,] 10600 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-06-21 00:09:48.811  INFO [dispatch-service,,,] 10600 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-06-21 00:14:48.820  INFO [dispatch-service,,,] 10600 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-06-21 00:19:48.822  INFO [dispatch-service,,,] 10600 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-06-21 00:24:48.830  INFO [dispatch-service,,,] 10600 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-06-21 00:29:48.831  INFO [dispatch-service,,,] 10600 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-06-21 00:34:48.833  INFO [dispatch-service,,,] 10600 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-06-21 00:39:48.835  INFO [dispatch-service,,,] 10600 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2018-06-21 00:44:48.837  INFO [dispatch-service,,,] 10600 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration

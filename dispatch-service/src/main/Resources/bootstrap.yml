@@ -1,0 +1,9 @@
+spring:
+  application.name: dispatch-service
+  cloud:
+    config:
+      enabled: true
+      failfast: true
+      discovery:
+        enabled: true
+        serviceId: "config-service"
